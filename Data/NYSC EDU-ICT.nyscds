@@ -1,0 +1,1164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EAttendance NameCount="122" DayCount="3" BatchCount="5" CDSName="EDU-ICT">
+  <Members>
+    <Member Surname="Ajimo" FirstName="Opeyemi" OtherNames="Rachael" PhoneNumber="07038224624" StateCode="185" NameKey="0" BatchCode="1" Created="2019-01-30T08:11:36.5719786+01:00" LastModified="2019-01-30T08:21:39.6364166+01:00" StillMem="true">
+      <MemAtt Akey="2" Verification="qCBPk" Time="2019-01-30T08:11:36.5719786+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="2" Verification="8Akj8" Time="2019-03-20T08:32:01.382549+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Akinleye" FirstName="Hephzibah" OtherNames="Blessing" PhoneNumber="08131390500" StateCode="406" NameKey="1" BatchCode="1" Created="2019-01-30T08:09:58.3741623+01:00" LastModified="2019-01-30T08:22:10.5218292+01:00" StillMem="true">
+      <MemAtt Akey="0" Verification="q80v0" Time="2019-01-30T08:09:58.3741623+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="0" Verification="5MStR" Time="2019-03-20T08:30:39.2292113+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="0" Verification="G5A8y" Time="2019-03-27T08:27:40.6699183+01:00" Content="" Status="Punctual" DayKey="2" />
+    </Member>
+    <Member Surname="Awolo" FirstName="Ayomide" OtherNames="Elizabeth" PhoneNumber="08069396875" StateCode="633" NameKey="2" BatchCode="1" Created="2019-01-30T08:19:40.4663969+01:00" LastModified="2019-01-30T08:22:48.2527042+01:00" StillMem="true">
+      <MemAtt Akey="8" Verification="5neU9" Time="2019-01-30T08:19:40.4663969+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="8" Verification="oHj9L" Time="2019-03-20T08:35:41.2058729+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ezeonuogu" FirstName="Uchenna" OtherNames="Lucy" PhoneNumber="08109558202" StateCode="186" NameKey="3" BatchCode="0" Created="2019-01-30T08:20:42.1156431+01:00" LastModified="2019-01-30T08:23:55.3486849+01:00" StillMem="true">
+      <MemAtt Akey="9" Verification="EsSEu" Time="2019-01-30T08:20:42.1156431+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Folorunso" FirstName="Samuel" OtherNames="Oluwafemi" PhoneNumber="07062273980" StateCode="71" NameKey="4" BatchCode="1" Created="2019-01-30T08:18:24.6319704+01:00" LastModified="2019-01-30T08:25:09.7029755+01:00" StillMem="true">
+      <MemAtt Akey="7" Verification="3lGeZ" Time="2019-01-30T08:18:24.6319704+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="11" Verification="cAxpd" Time="2019-03-20T08:38:44.7660583+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Soneye" FirstName="Hakeem" OtherNames="Dare" PhoneNumber="07033263479" StateCode="62" NameKey="5" BatchCode="0" Created="2019-01-30T08:10:45.6151685+01:00" LastModified="2019-01-30T08:32:29.6187091+01:00" StillMem="true">
+      <MemAtt Akey="1" Verification="1qiiP" Time="2019-01-30T08:10:45.6151685+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Afolabi" FirstName="Tawatalitu" OtherNames="Ranti" PhoneNumber="08143711115" StateCode="1224" NameKey="6" BatchCode="0" Created="2019-01-30T08:31:38.9472222+01:00" LastModified="2019-01-30T08:34:22.4995462+01:00" StillMem="true">
+      <MemAtt Akey="17" Verification="HLK1S" Time="2019-01-30T08:31:38.9472222+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Abu" FirstName="Theophilus" OtherNames="Afebuamhe" PhoneNumber="08167668459" StateCode="45" NameKey="7" BatchCode="3" Created="2019-01-30T08:35:48.6444303+01:00" LastModified="2019-01-30T08:35:48.6444303+01:00" StillMem="true">
+      <MemAtt Akey="73" Verification="6vYHV" Time="2019-01-30T08:35:48.6444303+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="10" Verification="V5UkS" Time="2019-03-20T08:37:15.5287696+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Wachukwu" FirstName="Lawrence" OtherNames="Chimene" PhoneNumber="08062638197" StateCode="985" NameKey="8" BatchCode="0" Created="2019-01-30T09:17:19.1243083+01:00" LastModified="2019-01-30T09:19:20.9009743+01:00" StillMem="true">
+      <MemAtt Akey="59" Verification="heQjZ" Time="2019-01-30T09:17:19.1243083+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olalere" FirstName="Yetunde" OtherNames="Halimat" PhoneNumber="08174873843" StateCode="142" NameKey="9" BatchCode="1" Created="2019-01-30T08:58:52.3207775+01:00" LastModified="2019-01-30T09:28:29.0195324+01:00" StillMem="true">
+      <MemAtt Akey="41" Verification="axzsh" Time="2019-01-30T08:58:52.3207775+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="68" Verification="gbVs7" Time="2019-03-20T11:33:34.029145+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Fagba" FirstName="Adebusayo" OtherNames="Deborah" PhoneNumber="08145445681" StateCode="2000" NameKey="10" BatchCode="1" Created="2019-01-30T09:22:20.6489725+01:00" LastModified="2019-01-30T09:29:20.4508073+01:00" StillMem="true">
+      <MemAtt Akey="63" Verification="nxXn6" Time="2019-01-30T09:22:20.6489725+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="53" Verification="RneN9" Time="2019-03-20T10:02:13.0189347+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olayinka" FirstName="Mohammed" OtherNames="" PhoneNumber="08182472217" StateCode="40" NameKey="11" BatchCode="1" Created="2019-01-30T08:28:10.5492278+01:00" LastModified="2019-01-30T10:00:19.2683002+01:00" StillMem="true">
+      <MemAtt Akey="13" Verification="6zmzg" Time="2019-01-30T08:28:10.5492278+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="19" Verification="GgaBt" Time="2019-03-20T09:06:06.1173567+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Bello" FirstName="Muideen" OtherNames="Femi" PhoneNumber="09034166402" StateCode="696" NameKey="12" BatchCode="1" Created="2019-01-30T10:01:48.6591194+01:00" LastModified="2019-01-30T10:01:48.6591194+01:00" StillMem="true">
+      <MemAtt Akey="74" Verification="4qTYm" Time="2019-01-30T10:02:23.3736074+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="45" Verification="9PTnk" Time="2019-03-20T09:55:50.4619238+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adewumi" FirstName="Ayoade" OtherNames="Florence" PhoneNumber="07033700552" StateCode="1515" NameKey="13" BatchCode="0" Created="2019-01-30T08:50:14.8314393+01:00" LastModified="2019-01-30T10:05:12.5447694+01:00" StillMem="true">
+      <MemAtt Akey="26" Verification="gfW2k" Time="2019-01-30T08:50:14.8314393+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olalere" FirstName="Bose" OtherNames="Esther" PhoneNumber="07030718813" StateCode="93" NameKey="14" BatchCode="0" Created="2019-01-30T08:49:38.0844088+01:00" LastModified="2019-01-30T10:09:28.9774018+01:00" StillMem="true">
+      <MemAtt Akey="25" Verification="EqjEU" Time="2019-01-30T08:49:38.0844088+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Afejuku" FirstName="Oghosanine" OtherNames="" PhoneNumber="08108362826" StateCode="26" NameKey="15" BatchCode="3" Created="2019-01-30T10:10:55.0750933+01:00" LastModified="2019-01-30T10:10:55.0750933+01:00" StillMem="true">
+      <MemAtt Akey="75" Verification="Iiqdo" Time="2019-01-30T10:12:11.436106+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Johnson" FirstName="Bidemi" OtherNames="Deborah" PhoneNumber="07064911020" StateCode="81" NameKey="16" BatchCode="0" Created="2019-01-30T09:14:09.138392+01:00" LastModified="2019-01-30T10:15:54.4657384+01:00" StillMem="true">
+      <MemAtt Akey="54" Verification="9xI13" Time="2019-01-30T09:14:09.138392+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Lawal" FirstName="Nosimot" OtherNames="Oluwatoyin" PhoneNumber="08135313941" StateCode="173" NameKey="17" BatchCode="0" Created="2019-01-30T08:49:01.9731565+01:00" LastModified="2019-01-30T10:17:10.1021975+01:00" StillMem="true">
+      <MemAtt Akey="24" Verification="lflW8" Time="2019-01-30T08:49:01.9731565+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Muagba" FirstName="Prince" OtherNames="Johnbosco" PhoneNumber="07038904797" StateCode="11" NameKey="18" BatchCode="0" Created="2019-01-30T08:52:19.8080599+01:00" LastModified="2019-01-30T10:22:08.1184515+01:00" StillMem="true">
+      <MemAtt Akey="29" Verification="9Ls0K" Time="2019-01-30T08:52:19.8080599+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Oladele" FirstName="Magaret" OtherNames="Oluwatoyin" PhoneNumber="08169416604" StateCode="651" NameKey="19" BatchCode="1" Created="2019-01-30T10:23:58.0716026+01:00" LastModified="2019-01-30T10:25:40.8872292+01:00" StillMem="true">
+      <MemAtt Akey="76" Verification="ykKld" Time="2019-01-30T10:23:58.0716026+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adewoyin" FirstName="Adebanke" OtherNames="O" PhoneNumber="07036801306" StateCode="2209" NameKey="20" BatchCode="4" Created="2019-01-30T09:21:42.0396419+01:00" LastModified="2019-01-30T10:37:13.5347877+01:00" StillMem="true">
+      <MemAtt Akey="62" Verification="K1ZMN" Time="2019-01-30T09:21:42.0396419+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="25" Verification="KfFS3" Time="2019-03-20T09:16:23.2495287+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Egunleyi" FirstName="Oluwaseyi" OtherNames="Zainab" PhoneNumber="08140089318" StateCode="1078" NameKey="21" BatchCode="1" Created="2019-01-30T10:34:27.7004724+01:00" LastModified="2019-01-30T10:38:05.5126807+01:00" StillMem="true">
+      <MemAtt Akey="77" Verification="HbSpo" Time="2019-01-30T10:34:27.7004724+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="47" Verification="0oJGD" Time="2019-03-20T09:56:44.267987+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ogbu" FirstName="Andrew" OtherNames="Chidube" PhoneNumber="08035084965" StateCode="284" NameKey="22" BatchCode="0" Created="2019-01-30T10:56:19.327659+01:00" LastModified="2019-01-30T14:31:01.4641012+01:00" StillMem="true">
+      <MemAtt Akey="93" Verification="bZWlF" Time="2019-01-30T10:56:19.327659+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Omude" FirstName="Paul" OtherNames="" PhoneNumber="07062829002" StateCode="551" NameKey="23" BatchCode="3" Created="2019-01-30T10:41:12.5824212+01:00" LastModified="2019-01-30T11:12:32.6248591+01:00" StillMem="true">
+      <MemAtt Akey="80" Verification="Lk9H9" Time="2019-01-30T10:41:12.5824212+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="23" Verification="42yof" Time="2019-03-20T09:15:14.6377269+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Richard" FirstName="Saseun" OtherNames="" PhoneNumber="07068728273" StateCode="1992" NameKey="24" BatchCode="1" Created="2019-01-30T10:46:42.472392+01:00" LastModified="2019-01-30T11:15:36.7516223+01:00" StillMem="true">
+      <MemAtt Akey="86" Verification="JwFMS" Time="2019-01-30T10:46:42.472392+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ujara" FirstName="Oghenerukevwe" OtherNames="" PhoneNumber="08063608235" StateCode="773" NameKey="25" BatchCode="3" Created="2019-01-30T10:54:05.6658313+01:00" LastModified="2019-01-30T11:16:36.7557562+01:00" StillMem="true">
+      <MemAtt Akey="91" Verification="s1gxG" Time="2019-01-30T10:54:05.6658313+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="16" Verification="zTVcK" Time="2019-03-20T08:51:33.8544965+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olowe" FirstName="Olaoluwa" OtherNames="Oluwatoyin" PhoneNumber="08120983904" StateCode="522" NameKey="26" BatchCode="3" Created="2019-01-30T11:02:55.0483993+01:00" LastModified="2019-01-30T11:17:38.9766606+01:00" StillMem="true">
+      <MemAtt Akey="104" Verification="jyxC2" Time="2019-01-30T11:02:55.0483993+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Nnoruom" FirstName="Emmanuel" OtherNames="C" PhoneNumber="08132381040" StateCode="2666" NameKey="27" BatchCode="4" Created="2019-01-30T10:53:06.4327734+01:00" LastModified="2019-01-30T11:18:44.1456486+01:00" StillMem="true">
+      <MemAtt Akey="90" Verification="8d5en" Time="2019-01-30T10:53:06.4327734+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="60" Verification="yvKvV" Time="2019-03-20T10:17:04.4271399+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Erikpara" FirstName="Gbesimi" OtherNames="" PhoneNumber="08166084228" StateCode="206" NameKey="28" BatchCode="1" Created="2019-01-30T10:57:18.446875+01:00" LastModified="2019-01-30T11:19:22.1806878+01:00" StillMem="true">
+      <MemAtt Akey="94" Verification="hOiwI" Time="2019-01-30T10:57:18.446875+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="41" Verification="d0rqs" Time="2019-03-20T09:43:44.7501563+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ugwuorah" FirstName="Joy" OtherNames="" PhoneNumber="08160257657" StateCode="1420" NameKey="29" BatchCode="3" Created="2019-01-30T10:52:13.2248332+01:00" LastModified="2019-01-30T11:19:58.6023252+01:00" StillMem="true">
+      <MemAtt Akey="89" Verification="LKqAt" Time="2019-01-30T10:52:13.2248332+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="62" Verification="FjUuB" Time="2019-03-20T10:37:34.1039321+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Sunmonu" FirstName="Fatai" OtherNames="Ayinla" PhoneNumber="07066623544" StateCode="1834" NameKey="30" BatchCode="1" Created="2019-01-30T09:20:01.9571598+01:00" LastModified="2019-01-30T11:22:58.6963501+01:00" StillMem="true">
+      <MemAtt Akey="60" Verification="5KX7i" Time="2019-01-30T09:20:01.9571598+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ojo" FirstName="Moses" OtherNames="Opeyemi" PhoneNumber="07036226415" StateCode="3450" NameKey="31" BatchCode="3" Created="2019-01-30T11:05:16.477244+01:00" LastModified="2019-01-30T11:23:57.4546634+01:00" StillMem="true">
+      <MemAtt Akey="111" Verification="nrssO" Time="2019-01-30T11:05:16.477244+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="49" Verification="lZh4P" Time="2019-03-20T09:58:10.9682462+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ibrahim" FirstName="Hammed" OtherNames="Oluwasheyi" PhoneNumber="08065640365" StateCode="3476" NameKey="32" BatchCode="3" Created="2019-01-30T11:05:05.0452466+01:00" LastModified="2019-01-30T11:24:32.2498036+01:00" StillMem="true">
+      <MemAtt Akey="110" Verification="gZQXv" Time="2019-01-30T11:05:05.0452466+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Shande" FirstName="Jack" OtherNames="Bridges" PhoneNumber="090239971524" StateCode="2661" NameKey="33" BatchCode="4" Created="2019-01-30T11:00:23.8338054+01:00" LastModified="2019-01-30T11:25:13.9593302+01:00" StillMem="true">
+      <MemAtt Akey="98" Verification="Cu5Ld" Time="2019-01-30T11:00:23.8338054+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Jimoh" FirstName="Saheed" OtherNames="Olajide" PhoneNumber="07064374085" StateCode="1868" NameKey="34" BatchCode="3" Created="2019-01-30T11:04:39.7621858+01:00" LastModified="2019-01-30T11:25:54.4460008+01:00" StillMem="true">
+      <MemAtt Akey="108" Verification="ljFiX" Time="2019-01-30T11:04:39.7621858+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Okolo" FirstName="Chigozie" OtherNames="Juliet" PhoneNumber="09050859319" StateCode="1889" NameKey="35" BatchCode="3" Created="2019-01-30T11:04:51.7954573+01:00" LastModified="2019-01-30T11:26:24.4295484+01:00" StillMem="true">
+      <MemAtt Akey="109" Verification="wP6cS" Time="2019-01-30T11:04:51.7954573+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="67" Verification="eOTrc" Time="2019-03-20T11:02:32.6739035+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adebiyi" FirstName="Micheal" OtherNames="Oluwadamilola" PhoneNumber="08139261750" StateCode="2490" NameKey="36" BatchCode="4" Created="2019-01-30T11:03:37.4137917+01:00" LastModified="2019-01-30T11:27:03.64378+01:00" StillMem="true">
+      <MemAtt Akey="105" Verification="nINJT" Time="2019-01-30T11:03:37.4137917+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="56" Verification="ZiONV" Time="2019-03-20T10:12:39.8919051+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ariyo" FirstName="David" OtherNames="Tunde" PhoneNumber="07038640049" StateCode="3650" NameKey="37" BatchCode="3" Created="2019-01-30T11:04:08.8357248+01:00" LastModified="2019-01-30T11:27:32.7626869+01:00" StillMem="true">
+      <MemAtt Akey="106" Verification="8rKXD" Time="2019-01-30T11:04:08.8357248+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="57" Verification="B1GXN" Time="2019-03-20T10:13:08.9276042+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Igweonyia" FirstName="Obumneme" OtherNames="Chetachi" PhoneNumber="08163430708" StateCode="497" NameKey="38" BatchCode="3" Created="2019-01-30T11:04:23.0134126+01:00" LastModified="2019-01-30T11:28:19.5924823+01:00" StillMem="true">
+      <MemAtt Akey="107" Verification="jqkFJ" Time="2019-01-30T11:04:23.0134126+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="26" Verification="E9qFS" Time="2019-03-20T09:17:11.3996369+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ayodele" FirstName="Faith" OtherNames="Abidemi" PhoneNumber="08139356418" StateCode="3656" NameKey="39" BatchCode="4" Created="2019-01-30T09:14:50.9150663+01:00" LastModified="2019-01-30T11:29:45.8141875+01:00" StillMem="true">
+      <MemAtt Akey="56" Verification="CFEnS" Time="2019-01-30T09:14:50.9150663+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Mobolaji-Ajasa" FirstName="Praise" OtherNames="Moyosore" PhoneNumber="08131204949" StateCode="647" NameKey="40" BatchCode="3" Created="2019-01-30T08:45:07.9761141+01:00" LastModified="2019-01-30T11:31:07.7337548+01:00" StillMem="true">
+      <MemAtt Akey="18" Verification="X0Zjy" Time="2019-01-30T08:45:07.9761141+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="OJaru" FirstName="Jamiu" OtherNames="Mohammed" PhoneNumber="08138107313" StateCode="2698" NameKey="41" BatchCode="4" Created="2019-01-30T08:45:54.2827154+01:00" LastModified="2019-01-30T11:32:04.2036428+01:00" StillMem="true">
+      <MemAtt Akey="19" Verification="7CZb3" Time="2019-01-30T08:45:54.2827154+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Waheed" FirstName="Olanrewaju" OtherNames="Olamilekan" PhoneNumber="07082388978" StateCode="3201" NameKey="42" BatchCode="4" Created="2019-01-30T09:11:22.7866493+01:00" LastModified="2019-01-30T11:34:09.9374946+01:00" StillMem="true">
+      <MemAtt Akey="49" Verification="fPGWr" Time="2019-01-30T09:11:22.7866493+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olaleye" FirstName="Damilola" OtherNames="Modupe" PhoneNumber="08163057937" StateCode="2032" NameKey="43" BatchCode="4" Created="2019-01-30T11:01:18.1655359+01:00" LastModified="2019-01-30T11:35:34.8983298+01:00" StillMem="true">
+      <MemAtt Akey="100" Verification="lo4vC" Time="2019-01-30T11:01:18.1655359+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Omope" FirstName="Adeola" OtherNames="Ifeoluwa" PhoneNumber="07082935763" StateCode="3648" NameKey="44" BatchCode="3" Created="2019-01-30T11:00:58.0431588+01:00" LastModified="2019-01-30T11:37:04.8081687+01:00" StillMem="true">
+      <MemAtt Akey="99" Verification="ppyPe" Time="2019-01-30T11:00:58.0431588+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Lawal" FirstName="Muktolib" OtherNames="Adeyemo" PhoneNumber="08093685497" StateCode="1065" NameKey="45" BatchCode="1" Created="2019-01-30T09:30:40.393857+01:00" LastModified="2019-01-30T11:38:20.295768+01:00" StillMem="true">
+      <MemAtt Akey="66" Verification="OE505" Time="2019-01-30T09:30:40.393857+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="48" Verification="XWTkC" Time="2019-03-20T09:57:47.3241265+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Asowari" FirstName="Samuel" OtherNames="" PhoneNumber="08068266325" StateCode="1135" NameKey="46" BatchCode="0" Created="2019-01-30T10:55:42.4243693+01:00" LastModified="2019-01-30T11:40:09.1208868+01:00" StillMem="true">
+      <MemAtt Akey="92" Verification="6oidY" Time="2019-01-30T10:55:42.4243693+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="George" FirstName="Bitebo" OtherNames="Godknow-" PhoneNumber="08037085178" StateCode="1166" NameKey="47" BatchCode="0" Created="2019-01-30T10:49:48.7688286+01:00" LastModified="2019-01-30T12:41:48.0551848+01:00" StillMem="true">
+      <MemAtt Akey="88" Verification="dXcyG" Time="2019-01-30T10:49:48.7688286+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Asamu" FirstName="Segun" OtherNames="Benzamen" PhoneNumber="09031707422" StateCode="1308" NameKey="48" BatchCode="3" Created="2019-01-30T09:13:14.0157653+01:00" LastModified="2019-01-30T12:45:35.4790463+01:00" StillMem="true">
+      <MemAtt Akey="53" Verification="ca4jO" Time="2019-01-30T09:13:14.0157653+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="15" Verification="vk281" Time="2019-03-20T08:49:32.3938588+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ogbuji" FirstName="Onyinye" OtherNames="Blessing" PhoneNumber="08100243804" StateCode="106" NameKey="49" BatchCode="1" Created="2019-01-30T09:12:23.6392698+01:00" LastModified="2019-01-30T13:15:18.3613759+01:00" StillMem="true">
+      <MemAtt Akey="51" Verification="yq9XZ" Time="2019-01-30T09:12:23.6392698+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="64" Verification="QW7z4" Time="2019-03-20T10:41:30.8141706+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Elegbede" FirstName="Yetunde" OtherNames="Abosede" PhoneNumber="08144256904" StateCode="1403" NameKey="50" BatchCode="3" Created="2019-01-30T11:01:32.9605923+01:00" LastModified="2019-01-30T13:16:41.8014377+01:00" StillMem="true">
+      <MemAtt Akey="101" Verification="ku8Lq" Time="2019-01-30T11:01:32.9605923+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="37" Verification="XNKcM" Time="2019-03-20T09:30:29.1295362+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ayipo" FirstName="Hithman" OtherNames="Omotosho" PhoneNumber="08162714017" StateCode="1507" NameKey="51" BatchCode="3" Created="2019-01-30T11:01:53.2670855+01:00" LastModified="2019-01-30T13:19:09.9678258+01:00" StillMem="true">
+      <MemAtt Akey="102" Verification="2GUyj" Time="2019-01-30T11:01:53.2670855+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Oyemade" FirstName="Seyi" OtherNames="Victor" PhoneNumber="08030416274" StateCode="606" NameKey="52" BatchCode="1" Created="2019-01-30T08:51:44.683892+01:00" LastModified="2019-01-30T13:20:51.896788+01:00" StillMem="true">
+      <MemAtt Akey="28" Verification="V93Wk" Time="2019-01-30T08:51:44.683892+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="34" Verification="Nahuf" Time="2019-03-20T09:28:36.5679197+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Obenoh" FirstName="Samuel" OtherNames="Uduake" PhoneNumber="09162078246" StateCode="2172" NameKey="53" BatchCode="2" Created="2019-01-30T10:58:25.4288732+01:00" LastModified="2019-01-30T13:22:51.6229058+01:00" StillMem="true">
+      <MemAtt Akey="95" Verification="xqkCy" Time="2019-01-30T10:58:25.4288732+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="32" Verification="l4DLI" Time="2019-03-20T09:25:31.09628+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Efekodo" FirstName="Dorcas" OtherNames="Oghenekewhiroro" PhoneNumber="08111422265" StateCode="41" NameKey="54" BatchCode="3" Created="2019-01-30T08:59:35.9239786+01:00" LastModified="2019-01-30T13:24:36.238282+01:00" StillMem="true">
+      <MemAtt Akey="42" Verification="y69QY" Time="2019-01-30T08:59:35.9239786+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="24" Verification="GU4Jl" Time="2019-03-20T09:15:43.8245927+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Aande" FirstName="Joseph" OtherNames="T" PhoneNumber="07065930870" StateCode="265" NameKey="55" BatchCode="3" Created="2019-01-30T08:54:43.974795+01:00" LastModified="2019-01-30T13:26:22.4334973+01:00" StillMem="true">
+      <MemAtt Akey="33" Verification="2rcwc" Time="2019-01-30T08:54:43.974795+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="13" Verification="SSfis" Time="2019-03-20T08:42:11.9636727+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Daramola" FirstName="Gift" OtherNames="O" PhoneNumber="08166578017" StateCode="2544" NameKey="56" BatchCode="2" Created="2019-01-30T08:55:20.4021427+01:00" LastModified="2019-01-30T13:27:57.6320177+01:00" StillMem="true">
+      <MemAtt Akey="34" Verification="9Dqg6" Time="2019-01-30T08:55:20.4021427+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="14" Verification="b4loK" Time="2019-03-20T08:47:27.5046882+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Akinwande" FirstName="Daniel" OtherNames="Opeyemi" PhoneNumber="08065742291" StateCode="568" NameKey="57" BatchCode="3" Created="2019-01-30T08:48:26.8466628+01:00" LastModified="2019-01-30T13:29:11.6709323+01:00" StillMem="true">
+      <MemAtt Akey="23" Verification="eJNsc" Time="2019-01-30T08:48:26.8466628+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="6" Verification="Ofi40" Time="2019-03-20T08:35:00.0522229+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Usman" FirstName="Abu" OtherNames="" PhoneNumber="07039220369" StateCode="650" NameKey="58" BatchCode="3" Created="2019-01-30T08:29:35.4875618+01:00" LastModified="2019-01-30T13:30:22.1295085+01:00" StillMem="true">
+      <MemAtt Akey="14" Verification="EQSDb" Time="2019-01-30T08:29:35.4875618+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="58" Verification="5XCVz" Time="2019-03-20T10:13:57.0180239+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Obi" FirstName="Erim" OtherNames="Victor" PhoneNumber="08108702977" StateCode="421" NameKey="59" BatchCode="1" Created="2019-01-30T08:53:34.9453252+01:00" LastModified="2019-01-30T13:31:57.8564071+01:00" StillMem="true">
+      <MemAtt Akey="31" Verification="aKvPR" Time="2019-01-30T08:53:34.9453252+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="33" Verification="iHZLm" Time="2019-03-20T09:25:52.0530792+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ajazeo" FirstName="Paul" OtherNames="Tochukou" PhoneNumber="08060466532" StateCode="2959" NameKey="60" BatchCode="4" Created="2019-01-30T08:54:06.8282193+01:00" LastModified="2019-01-30T13:33:12.7909912+01:00" StillMem="true">
+      <MemAtt Akey="32" Verification="92wno" Time="2019-01-30T08:54:06.8282193+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="27" Verification="rhSGt" Time="2019-03-20T09:17:54.9336633+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ayeni" FirstName="Esther" OtherNames="Atinuke" PhoneNumber="07063785614" StateCode="135" NameKey="61" BatchCode="3" Created="2019-01-30T08:57:36.7740249+01:00" LastModified="2019-01-30T13:35:33.8077419+01:00" StillMem="true">
+      <MemAtt Akey="39" Verification="TDFhh" Time="2019-01-30T08:57:36.7740249+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="30" Verification="DhlWc" Time="2019-03-20T09:19:42.1717725+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Eze" FirstName="Marita" OtherNames="Veronica" PhoneNumber="07064193439" StateCode="302" NameKey="62" BatchCode="3" Created="2019-01-30T08:58:29.8615554+01:00" LastModified="2019-01-30T13:36:41.1853817+01:00" StillMem="true">
+      <MemAtt Akey="40" Verification="IjwOA" Time="2019-01-30T08:58:29.8615554+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="42" Verification="A3eT9" Time="2019-03-20T09:45:31.4585176+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ahmad " FirstName="Usman" OtherNames="Sero" PhoneNumber="07038663855" StateCode="1808" NameKey="63" BatchCode="1" Created="2019-01-30T09:15:44.0573468+01:00" LastModified="2019-01-30T13:38:11.9601257+01:00" StillMem="true">
+      <MemAtt Akey="57" Verification="CDlPh" Time="2019-01-30T09:15:44.0573468+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="50" Verification="FGhzS" Time="2019-03-20T09:58:39.461767+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Oluwadamilare" FirstName="Rasidat" OtherNames="Yetunde" PhoneNumber="08037193930" StateCode="12" NameKey="64" BatchCode="3" Created="2019-01-30T09:14:33.3379992+01:00" LastModified="2019-01-30T13:39:24.6512593+01:00" StillMem="true">
+      <MemAtt Akey="55" Verification="3epaA" Time="2019-01-30T09:14:33.3379992+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="29" Verification="yRbrH" Time="2019-03-20T09:19:20.5970228+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Onatoyinbo" FirstName="Gift" OtherNames="I" PhoneNumber="07064688585" StateCode="1464" NameKey="65" BatchCode="3" Created="2019-01-30T09:42:39.2495585+01:00" LastModified="2019-01-30T13:47:22.4203935+01:00" StillMem="true">
+      <MemAtt Akey="72" Verification="2k7JD" Time="2019-01-30T09:42:39.2495585+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Hammed" FirstName="Ganiyat" OtherNames="Oluwabukola" PhoneNumber="07016042101" StateCode="2189" NameKey="66" BatchCode="4" Created="2019-01-30T09:36:47.885923+01:00" LastModified="2019-01-30T13:49:27.5215431+01:00" StillMem="true">
+      <MemAtt Akey="69" Verification="HIQnE" Time="2019-01-30T09:36:47.885923+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="46" Verification="RiF06" Time="2019-03-20T09:56:12.1203608+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="OnwuKanke" FirstName="Blessing" OtherNames="Onyinyedu" PhoneNumber="08144894851" StateCode="2056" NameKey="67" BatchCode="2" Created="2019-01-30T08:55:53.577047+01:00" LastModified="2019-01-30T13:51:05.3869505+01:00" StillMem="true">
+      <MemAtt Akey="35" Verification="bcEmz" Time="2019-01-30T08:55:53.577047+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="31" Verification="53SH2" Time="2019-03-20T09:21:15.1869845+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="KpurKpur" FirstName="Terkimbi" OtherNames="Bartholomew" PhoneNumber="07038585587" StateCode="1158" NameKey="68" BatchCode="0" Created="2019-01-30T08:14:00.9266949+01:00" LastModified="2019-01-30T13:52:10.6639945+01:00" StillMem="true">
+      <MemAtt Akey="4" Verification="ftcFE" Time="2019-01-30T08:14:00.9266949+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ifeakor" FirstName="Chinazor" OtherNames="Immaculata" PhoneNumber="09039248371" StateCode="2873" NameKey="69" BatchCode="4" Created="2019-01-30T09:00:53.6051004+01:00" LastModified="2019-01-30T13:57:33.7758963+01:00" StillMem="true">
+      <MemAtt Akey="44" Verification="2Jsmq" Time="2019-01-30T09:00:53.6051004+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olaiya" FirstName="Friday" OtherNames="Joseph" PhoneNumber="08165979739" StateCode="280" NameKey="70" BatchCode="3" Created="2019-01-30T09:11:03.9947713+01:00" LastModified="2019-01-30T13:59:37.1042123+01:00" StillMem="true">
+      <MemAtt Akey="48" Verification="tzf2B" Time="2019-01-30T09:11:03.9947713+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="1" Verification="XxBzM" Time="2019-03-20T08:31:19.0259091+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ogufowora" FirstName="Iyanuoluwa" OtherNames="Temitope" PhoneNumber="08103571591" StateCode="1586" NameKey="71" BatchCode="3" Created="2019-01-30T09:10:26.8429526+01:00" LastModified="2019-01-30T14:02:05.1611748+01:00" StillMem="true">
+      <MemAtt Akey="47" Verification="92Lj5" Time="2019-01-30T09:10:26.8429526+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="7" Verification="GEE9u" Time="2019-03-20T08:35:21.2428707+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Abdullaziz" FirstName="Husseini" OtherNames="" PhoneNumber="08066861012" StateCode="835" NameKey="72" BatchCode="1" Created="2019-01-30T09:11:41.1142031+01:00" LastModified="2019-01-30T14:04:03.3148765+01:00" StillMem="true">
+      <MemAtt Akey="50" Verification="AB8ke" Time="2019-01-30T09:11:41.1142031+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adamu" FirstName="Nasiru" OtherNames="" PhoneNumber="07068765608" StateCode="2070" NameKey="73" BatchCode="2" Created="2019-01-30T09:00:13.4397855+01:00" LastModified="2019-01-30T14:05:40.3010636+01:00" StillMem="true">
+      <MemAtt Akey="43" Verification="BI27x" Time="2019-01-30T09:00:13.4397855+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="35" Verification="kv0nn" Time="2019-03-20T09:28:57.1406975+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Odo" FirstName="Juliet" OtherNames="O" PhoneNumber="08038235617" StateCode="2294" NameKey="74" BatchCode="2" Created="2019-01-30T08:57:15.0859615+01:00" LastModified="2019-01-30T14:08:20.2842701+01:00" StillMem="true">
+      <MemAtt Akey="38" Verification="lYg52" Time="2019-01-30T08:57:15.0859615+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="55" Verification="nTCmC" Time="2019-03-20T10:11:40.8204198+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adedokun" FirstName="Dene" OtherNames="" PhoneNumber="08067690419" StateCode="2295" NameKey="75" BatchCode="0" Created="2019-01-30T09:16:15.4980722+01:00" LastModified="2019-01-30T14:13:55.332319+01:00" StillMem="true">
+      <MemAtt Akey="58" Verification="JsnA1" Time="2019-01-30T09:16:15.4980722+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adepoju" FirstName="Oluwakemi" OtherNames="Christianah" PhoneNumber="07039898702" StateCode="349" NameKey="76" BatchCode="3" Created="2019-01-30T08:46:53.6201133+01:00" LastModified="2019-01-30T14:17:24.7245385+01:00" StillMem="true">
+      <MemAtt Akey="20" Verification="F5SYg" Time="2019-01-30T08:46:53.6201133+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Sunday" FirstName="Mary" OtherNames="Omeneke" PhoneNumber="08139496988" StateCode="299" NameKey="77" BatchCode="3" Created="2019-01-30T08:56:45.5531876+01:00" LastModified="2019-01-30T14:19:56.4373759+01:00" StillMem="true">
+      <MemAtt Akey="37" Verification="rzXkA" Time="2019-01-30T08:56:45.5531876+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="12" Verification="YXb9y" Time="2019-03-20T08:39:43.9140896+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ebinum" FirstName="Winners" OtherNames="George" PhoneNumber="08146437896" StateCode="2631" NameKey="78" BatchCode="4" Created="2019-01-30T09:01:57.4085499+01:00" LastModified="2019-01-30T14:21:32.5675235+01:00" StillMem="true">
+      <MemAtt Akey="45" Verification="bWlec" Time="2019-01-30T09:01:57.4085499+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="39" Verification="vICkn" Time="2019-03-20T09:33:12.0380444+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Oyekanmi" FirstName="Ifeoluwa" OtherNames="O" PhoneNumber="08140712501" StateCode="2646" NameKey="79" BatchCode="4" Created="2019-01-30T09:42:21.8292869+01:00" LastModified="2019-01-30T14:24:54.2649741+01:00" StillMem="true">
+      <MemAtt Akey="71" Verification="HgV2R" Time="2019-01-30T09:42:21.8292869+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Owolabi" FirstName="Folake" OtherNames="Olubunmi" PhoneNumber="08136858839" StateCode="1819" NameKey="80" BatchCode="3" Created="2019-01-30T08:30:50.51494+01:00" LastModified="2019-01-30T14:26:36.9456548+01:00" StillMem="true">
+      <MemAtt Akey="16" Verification="CxeCC" Time="2019-01-30T08:30:50.51494+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="20" Verification="Z7m2M" Time="2019-03-20T09:06:58.7372804+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olaniyan" FirstName="Omolara" OtherNames="O." PhoneNumber="" StateCode="3552" NameKey="81" BatchCode="4" Created="2019-01-30T08:56:14.3083323+01:00" LastModified="2019-02-27T07:06:42.276857+01:00" StillMem="true">
+      <MemAtt Akey="36" Verification="syjuf" Time="2019-01-30T08:56:14.3083323+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="3" Verification="pJuj8" Time="2019-03-20T08:33:00.7042559+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Akintan" FirstName="Muyiwa" OtherNames="S" PhoneNumber="" StateCode="245" NameKey="82" BatchCode="3" Created="2019-01-30T08:15:56.6897546+01:00" LastModified="2019-02-27T07:10:54.4203367+01:00" StillMem="true">
+      <MemAtt Akey="5" Verification="4Pt7d" Time="2019-01-30T08:15:56.6897546+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="36" Verification="s3OAq" Time="2019-03-20T09:29:47.4672852+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Evinagwu" FirstName="Emeka" OtherNames="M" PhoneNumber="07032414250" StateCode="2997" NameKey="83" BatchCode="3" Created="2019-01-30T08:30:06.8214274+01:00" LastModified="2019-02-27T07:15:42.2636482+01:00" StillMem="true">
+      <MemAtt Akey="15" Verification="sF75z" Time="2019-01-30T08:30:06.8214274+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="28" Verification="zWY3W" Time="2019-03-20T09:18:35.1155114+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adedodun" FirstName="Peter" OtherNames="A." PhoneNumber="08033955043" StateCode="185" NameKey="84" BatchCode="3" Created="2019-01-30T08:47:31.9533645+01:00" LastModified="2019-02-27T07:19:03.1221737+01:00" StillMem="true">
+      <MemAtt Akey="21" Verification="0lBHU" Time="2019-01-30T08:47:31.9533645+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="54" Verification="tMmIE" Time="2019-03-20T10:07:26.641759+01:00" Content="Not really arround but was robbed confirmed by the president" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Aderibjgbe" FirstName="Temitope" OtherNames="" PhoneNumber="" StateCode="315" NameKey="85" BatchCode="3" Created="2019-01-30T08:47:57.0502848+01:00" LastModified="2019-02-27T07:24:51.0716557+01:00" StillMem="true">
+      <MemAtt Akey="22" Verification="iNehi" Time="2019-01-30T08:47:57.0502848+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="52" Verification="DW36Q" Time="2019-03-20T10:00:19.8403065+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Akinade" FirstName="John" OtherNames="A" PhoneNumber="07039285727" StateCode="2876" NameKey="86" BatchCode="4" Created="2019-01-30T08:53:05.2342236+01:00" LastModified="2019-02-27T07:27:58.7262426+01:00" StillMem="true">
+      <MemAtt Akey="30" Verification="oogyI" Time="2019-01-30T08:53:05.2342236+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="59" Verification="0SNJk" Time="2019-03-20T10:14:27.6770632+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Emeka" FirstName="Roseline" OtherNames="Oluchi" PhoneNumber="" StateCode="1314" NameKey="87" BatchCode="1" Created="2019-01-30T09:09:58.6670243+01:00" LastModified="2019-02-27T07:30:30.9831217+01:00" StillMem="true">
+      <MemAtt Akey="46" Verification="NMW4g" Time="2019-01-30T09:09:58.6670243+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Nwoke" FirstName="Victor" OtherNames="U" PhoneNumber="" StateCode="192" NameKey="88" BatchCode="3" Created="2019-01-30T09:12:47.3798591+01:00" LastModified="2019-02-27T07:32:43.5457448+01:00" StillMem="true">
+      <MemAtt Akey="52" Verification="3CLFJ" Time="2019-01-30T09:12:47.3798591+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Olaniwun" FirstName="Zainab" OtherNames="Ajibola" PhoneNumber="" StateCode="2357" NameKey="89" BatchCode="2" Created="2019-01-30T09:23:38.7988212+01:00" LastModified="2019-02-27T07:36:13.7411883+01:00" StillMem="true">
+      <MemAtt Akey="64" Verification="Ooe15" Time="2019-01-30T09:23:38.7988212+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="22" Verification="s8pne" Time="2019-03-20T09:14:25.9938836+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Bisiriyu" FirstName="Mariam" OtherNames="Bello" PhoneNumber="" StateCode="43" NameKey="90" BatchCode="1" Created="2019-01-30T09:35:08.2421579+01:00" LastModified="2019-02-27T07:38:20.7427455+01:00" StillMem="true">
+      <MemAtt Akey="68" Verification="K65oN" Time="2019-01-30T09:35:08.2421579+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="43" Verification="hf2Vl" Time="2019-03-20T09:54:14.8311945+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Abolarinwa" FirstName="Elizabeth" OtherNames="O" PhoneNumber="08167824333" StateCode="2396" NameKey="91" BatchCode="4" Created="2019-01-30T09:41:36.5996723+01:00" LastModified="2019-02-27T07:40:23.3060163+01:00" StillMem="true">
+      <MemAtt Akey="70" Verification="j6ccA" Time="2019-01-30T09:41:36.5996723+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="4" Verification="CTBU3" Time="2019-03-20T08:33:37.7662855+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ezonfade" FirstName="Xavier" OtherNames="Miebi" PhoneNumber="" StateCode="3318" NameKey="92" BatchCode="3" Created="2019-01-30T10:59:36.0368981+01:00" LastModified="2019-02-27T07:45:50.7197336+01:00" StillMem="true">
+      <MemAtt Akey="96" Verification="XvfS4" Time="2019-01-30T10:59:36.0368981+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="65" Verification="M9GIE" Time="2019-03-20T10:47:13.692505+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Edet" FirstName="Daniel" OtherNames="Ita" PhoneNumber="07067101925" StateCode="3295" NameKey="93" BatchCode="3" Created="2019-01-30T11:00:08.2518888+01:00" LastModified="2019-02-27T07:50:50.4506602+01:00" StillMem="true">
+      <MemAtt Akey="97" Verification="grbYZ" Time="2019-01-30T11:00:08.2518888+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="44" Verification="Kxwyx" Time="2019-03-20T09:54:58.1553886+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Omojagbolo" FirstName="Fagbade" OtherNames="" PhoneNumber="" StateCode="1499" NameKey="94" BatchCode="3" Created="2019-01-30T11:02:07.9671218+01:00" LastModified="2019-02-27T07:53:52.828249+01:00" StillMem="true">
+      <MemAtt Akey="103" Verification="B9FYr" Time="2019-01-30T11:02:07.9671218+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="17" Verification="JBybO" Time="2019-03-20T08:57:41.8954573+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A1" OtherNames="" PhoneNumber="" StateCode="2273" NameKey="95" BatchCode="0" Created="2019-01-30T08:12:12.0876179+01:00" LastModified="2019-02-27T08:01:42.3381735+01:00" StillMem="true">
+      <MemAtt Akey="3" Verification="0h7nh" Time="2019-01-30T08:12:12.0876179+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="2" OtherNames="" PhoneNumber="" StateCode="2151" NameKey="96" BatchCode="0" Created="2019-01-30T08:16:30.5296701+01:00" LastModified="2019-02-27T08:02:17.3504714+01:00" StillMem="true">
+      <MemAtt Akey="6" Verification="WkDOP" Time="2019-01-30T08:16:30.5296701+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A3" OtherNames="" PhoneNumber="" StateCode="2175" NameKey="97" BatchCode="0" Created="2019-01-30T08:25:53.3103931+01:00" LastModified="2019-02-27T08:02:35.1103986+01:00" StillMem="true">
+      <MemAtt Akey="10" Verification="REOsN" Time="2019-01-30T08:25:53.3103931+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A4" OtherNames="" PhoneNumber="" StateCode="1360" NameKey="98" BatchCode="0" Created="2019-01-30T08:27:05.913808+01:00" LastModified="2019-02-27T08:02:59.1089464+01:00" StillMem="true">
+      <MemAtt Akey="11" Verification="xVkgv" Time="2019-01-30T08:27:05.913808+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A5" OtherNames="" PhoneNumber="" StateCode="1963" NameKey="99" BatchCode="0" Created="2019-01-30T08:27:43.4624186+01:00" LastModified="2019-02-27T08:03:16.308337+01:00" StillMem="true">
+      <MemAtt Akey="12" Verification="bxa5t" Time="2019-01-30T08:27:43.4624186+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A6" OtherNames="" PhoneNumber="" StateCode="482" NameKey="100" BatchCode="0" Created="2019-01-30T09:24:50.9180238+01:00" LastModified="2019-02-27T08:03:38.812107+01:00" StillMem="true">
+      <MemAtt Akey="65" Verification="GA7zM" Time="2019-01-30T09:24:50.9180238+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A7" OtherNames="" PhoneNumber="" StateCode="2129" NameKey="101" BatchCode="0" Created="2019-01-30T08:50:45.2899445+01:00" LastModified="2019-02-27T08:35:27.1054961+01:00" StillMem="true">
+      <MemAtt Akey="27" Verification="6U6WB" Time="2019-01-30T08:50:45.2899445+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A8" OtherNames="" PhoneNumber="" StateCode="2412" NameKey="102" BatchCode="0" Created="2019-01-30T09:21:11.3509993+01:00" LastModified="2019-02-27T08:35:54.263741+01:00" StillMem="true">
+      <MemAtt Akey="61" Verification="Ds7gb" Time="2019-01-30T09:21:11.3509993+01:00" Content="" Status="Punctual" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A9" OtherNames="" PhoneNumber="" StateCode="1174" NameKey="103" BatchCode="0" Created="2019-01-30T10:39:48.7751091+01:00" LastModified="2019-02-27T08:41:22.9205405+01:00" StillMem="true">
+      <MemAtt Akey="78" Verification="BC4dC" Time="2019-01-30T10:39:48.7751091+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A10" OtherNames="" PhoneNumber="" StateCode="919" NameKey="104" BatchCode="0" Created="2019-01-30T10:40:35.3316713+01:00" LastModified="2019-02-27T08:45:50.5318736+01:00" StillMem="true">
+      <MemAtt Akey="79" Verification="ZzlaH" Time="2019-01-30T10:40:35.3316713+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A11" OtherNames="" PhoneNumber="" StateCode="2059" NameKey="105" BatchCode="0" Created="2019-01-30T10:42:29.2864628+01:00" LastModified="2019-02-27T08:46:12.6576875+01:00" StillMem="true">
+      <MemAtt Akey="81" Verification="sd4qr" Time="2019-01-30T10:42:29.2864628+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A12" OtherNames="" PhoneNumber="" StateCode="1426" NameKey="106" BatchCode="0" Created="2019-01-30T09:33:27.7995669+01:00" LastModified="2019-02-27T08:46:31.5522403+01:00" StillMem="true">
+      <MemAtt Akey="67" Verification="ri64E" Time="2019-01-30T09:33:27.7995669+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A13" OtherNames="" PhoneNumber="" StateCode="715" NameKey="107" BatchCode="0" Created="2019-01-30T10:42:47.542571+01:00" LastModified="2019-02-27T08:46:45.845294+01:00" StillMem="true">
+      <MemAtt Akey="82" Verification="YpsET" Time="2019-01-30T10:42:47.542571+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A14" OtherNames="" PhoneNumber="" StateCode="2221" NameKey="108" BatchCode="0" Created="2019-01-30T10:43:17.3558314+01:00" LastModified="2019-02-27T08:47:04.1487557+01:00" StillMem="true">
+      <MemAtt Akey="83" Verification="IQLgw" Time="2019-01-30T10:43:17.3558314+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A15" OtherNames="" PhoneNumber="" StateCode="206" NameKey="109" BatchCode="0" Created="2019-01-30T10:43:55.9325248+01:00" LastModified="2019-02-27T08:47:16.6010591+01:00" StillMem="true">
+      <MemAtt Akey="84" Verification="USiSK" Time="2019-01-30T10:43:55.9325248+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A16" OtherNames="" PhoneNumber="" StateCode="1643" NameKey="110" BatchCode="0" Created="2019-01-30T10:44:13.6588167+01:00" LastModified="2019-02-27T08:47:36.3128517+01:00" StillMem="true">
+      <MemAtt Akey="85" Verification="smpMD" Time="2019-01-30T10:44:13.6588167+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="UNKNOWN" FirstName="A17" OtherNames="" PhoneNumber="" StateCode="2213" NameKey="111" BatchCode="0" Created="2019-01-30T10:49:13.0438494+01:00" LastModified="2019-02-27T08:47:49.4484182+01:00" StillMem="true">
+      <MemAtt Akey="87" Verification="Ea2ck" Time="2019-01-30T10:49:13.0438494+01:00" Content="" Status="Late" DayKey="0" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Idowu" FirstName="Comfort" OtherNames="Anuoluwapo" PhoneNumber="07066158751" StateCode="3371" NameKey="112" BatchCode="3" Created="2019-03-20T08:34:27.8853212+01:00" LastModified="2019-03-20T08:53:39.2385313+01:00" StillMem="true">
+      <MemAtt Akey="5" Verification="nyPaq" Time="2019-03-20T08:34:27.8853212+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ayeni" FirstName="Timi" OtherNames="Joshua" PhoneNumber="08094607024" StateCode="3734" NameKey="113" BatchCode="3" Created="2019-03-20T08:36:47.4415059+01:00" LastModified="2019-03-20T08:54:26.0345404+01:00" StillMem="true">
+      <MemAtt Akey="9" Verification="1nVux" Time="2019-03-20T08:36:47.4415059+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Okonkwo" FirstName="Chinelo" OtherNames="Anabel" PhoneNumber="08107729822" StateCode="367" NameKey="114" BatchCode="3" Created="2019-03-20T09:43:01.4752721+01:00" LastModified="2019-03-20T09:47:28.4536163+01:00" StillMem="true">
+      <MemAtt Akey="40" Verification="gsF4u" Time="2019-03-20T09:43:01.4752721+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Falaye" FirstName="Ifeoluwa" OtherNames="David" PhoneNumber="08103361865" StateCode="1846" NameKey="115" BatchCode="3" Created="2019-03-20T09:32:17.1272283+01:00" LastModified="2019-03-20T09:49:08.2902943+01:00" StillMem="true">
+      <MemAtt Akey="38" Verification="oEAE7" Time="2019-03-20T09:32:17.1272283+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adeyanju" FirstName="Funmilayo" OtherNames="Racheal" PhoneNumber="07032352492" StateCode="48" NameKey="116" BatchCode="3" Created="2019-03-20T09:08:03.7354045+01:00" LastModified="2019-03-20T09:50:22.9783573+01:00" StillMem="true">
+      <MemAtt Akey="21" Verification="RJfPX" Time="2019-03-20T09:08:03.7354045+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Amuzu" FirstName="Benjamin" OtherNames="OluwaPelumi" PhoneNumber="08181692449" StateCode="3502" NameKey="117" BatchCode="3" Created="2019-03-20T08:58:34.3221514+01:00" LastModified="2019-03-20T09:51:20.7312507+01:00" StillMem="true">
+      <MemAtt Akey="18" Verification="6GPVM" Time="2019-03-20T08:58:34.3221514+01:00" Content="" Status="Punctual" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Gbadamosi" FirstName="Titilope" OtherNames="Mariam" PhoneNumber="08165643460" StateCode="3348" NameKey="118" BatchCode="3" Created="2019-03-20T09:59:41.1024805+01:00" LastModified="2019-03-20T10:28:22.6361287+01:00" StillMem="true">
+      <MemAtt Akey="51" Verification="jvG7l" Time="2019-03-20T09:59:41.1024805+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Adefioye" FirstName="Abosede" OtherNames="Omotolani" PhoneNumber="08132636787" StateCode="3642" NameKey="119" BatchCode="3" Created="2019-03-20T10:29:57.9439875+01:00" LastModified="2019-03-20T10:31:10.0194358+01:00" StillMem="true">
+      <MemAtt Akey="61" Verification="tUPkf" Time="2019-03-20T10:29:57.9439875+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ogungbile" FirstName="David" OtherNames="Tayo" PhoneNumber="080606147193" StateCode="1060" NameKey="120" BatchCode="3" Created="2019-03-20T10:40:17.6818103+01:00" LastModified="2019-03-20T10:49:51.6866252+01:00" StillMem="true">
+      <MemAtt Akey="63" Verification="U7gaF" Time="2019-03-20T10:40:17.6818103+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+    <Member Surname="Ohanwusi" FirstName="Onyebuchi" OtherNames="Success" PhoneNumber="08139046605" StateCode="569" NameKey="121" BatchCode="1" Created="2019-03-20T10:51:54.6932513+01:00" LastModified="2019-03-20T10:53:18.4140092+01:00" StillMem="true">
+      <MemAtt Akey="66" Verification="K6s1E" Time="2019-03-20T10:51:54.6932513+01:00" Content="" Status="Late" DayKey="1" />
+      <MemAtt Akey="-1" Content="" Status="Absent" DayKey="2" />
+    </Member>
+  </Members>
+  <PrevAtt>
+    <Day Password="MCa2" Created="2019-01-30T02:15:23.389759+01:00" DayKey="0" Comments="" LastModified="2019-01-30T02:18:18.0257958+01:00" Date="2019-01-30T02:18:18.0217931+01:00" Punctual="66" LateComers="46" Others="0" LateComersTime="2019-01-30T09:30:00.9479979+01:00" CloseTime="2019-02-27T08:47:50.675297+01:00">
+      <V Value="q80v0" />
+      <V Value="1qiiP" />
+      <V Value="qCBPk" />
+      <V Value="0h7nh" />
+      <V Value="ftcFE" />
+      <V Value="4Pt7d" />
+      <V Value="WkDOP" />
+      <V Value="3lGeZ" />
+      <V Value="5neU9" />
+      <V Value="EsSEu" />
+      <V Value="REOsN" />
+      <V Value="xVkgv" />
+      <V Value="bxa5t" />
+      <V Value="6zmzg" />
+      <V Value="EQSDb" />
+      <V Value="sF75z" />
+      <V Value="CxeCC" />
+      <V Value="HLK1S" />
+      <V Value="X0Zjy" />
+      <V Value="7CZb3" />
+      <V Value="F5SYg" />
+      <V Value="0lBHU" />
+      <V Value="iNehi" />
+      <V Value="eJNsc" />
+      <V Value="lflW8" />
+      <V Value="EqjEU" />
+      <V Value="gfW2k" />
+      <V Value="6U6WB" />
+      <V Value="V93Wk" />
+      <V Value="9Ls0K" />
+      <V Value="oogyI" />
+      <V Value="aKvPR" />
+      <V Value="92wno" />
+      <V Value="2rcwc" />
+      <V Value="9Dqg6" />
+      <V Value="bcEmz" />
+      <V Value="syjuf" />
+      <V Value="rzXkA" />
+      <V Value="lYg52" />
+      <V Value="TDFhh" />
+      <V Value="IjwOA" />
+      <V Value="axzsh" />
+      <V Value="y69QY" />
+      <V Value="BI27x" />
+      <V Value="2Jsmq" />
+      <V Value="bWlec" />
+      <V Value="NMW4g" />
+      <V Value="92Lj5" />
+      <V Value="tzf2B" />
+      <V Value="fPGWr" />
+      <V Value="AB8ke" />
+      <V Value="yq9XZ" />
+      <V Value="3CLFJ" />
+      <V Value="ca4jO" />
+      <V Value="9xI13" />
+      <V Value="3epaA" />
+      <V Value="CFEnS" />
+      <V Value="CDlPh" />
+      <V Value="JsnA1" />
+      <V Value="heQjZ" />
+      <V Value="5KX7i" />
+      <V Value="Ds7gb" />
+      <V Value="K1ZMN" />
+      <V Value="nxXn6" />
+      <V Value="Ooe15" />
+      <V Value="GA7zM" />
+      <V Value="OE505" />
+      <V Value="ri64E" />
+      <V Value="K65oN" />
+      <V Value="HIQnE" />
+      <V Value="j6ccA" />
+      <V Value="HgV2R" />
+      <V Value="2k7JD" />
+      <V Value="6vYHV" />
+      <V Value="4qTYm" />
+      <V Value="Iiqdo" />
+      <V Value="ykKld" />
+      <V Value="HbSpo" />
+      <V Value="BC4dC" />
+      <V Value="ZzlaH" />
+      <V Value="Lk9H9" />
+      <V Value="sd4qr" />
+      <V Value="YpsET" />
+      <V Value="IQLgw" />
+      <V Value="USiSK" />
+      <V Value="smpMD" />
+      <V Value="JwFMS" />
+      <V Value="Ea2ck" />
+      <V Value="dXcyG" />
+      <V Value="LKqAt" />
+      <V Value="8d5en" />
+      <V Value="s1gxG" />
+      <V Value="6oidY" />
+      <V Value="bZWlF" />
+      <V Value="hOiwI" />
+      <V Value="xqkCy" />
+      <V Value="XvfS4" />
+      <V Value="grbYZ" />
+      <V Value="Cu5Ld" />
+      <V Value="ppyPe" />
+      <V Value="lo4vC" />
+      <V Value="ku8Lq" />
+      <V Value="2GUyj" />
+      <V Value="B9FYr" />
+      <V Value="jyxC2" />
+      <V Value="nINJT" />
+      <V Value="8rKXD" />
+      <V Value="jqkFJ" />
+      <V Value="ljFiX" />
+      <V Value="wP6cS" />
+      <V Value="gZQXv" />
+      <V Value="nrssO" />
+      <V Value="RXpsi" />
+      <V Value="Avxl0" />
+      <V Value="KP0E6" />
+      <V Value="0jEf6" />
+      <V Value="NCkrn" />
+      <V Value="YRmbQ" />
+      <V Value="rxrrs" />
+      <V Value="DtM0M" />
+      <V Value="0SLc7" />
+      <V Value="GZBRv" />
+      <V Value="3dDm1" />
+      <V Value="Fmy59" />
+      <V Value="j8LL8" />
+      <V Value="MX8Ms" />
+      <V Value="6MDI6" />
+      <V Value="ur8jW" />
+      <V Value="zGLgM" />
+      <V Value="Ek5pd" />
+      <V Value="RvHrd" />
+      <V Value="r7zTk" />
+      <V Value="jQoZo" />
+      <V Value="hPug6" />
+      <V Value="OeEZ9" />
+      <V Value="Snezt" />
+      <V Value="cSJjR" />
+      <V Value="A5MfE" />
+      <V Value="mrfzm" />
+      <V Value="ZRmre" />
+      <V Value="pqPiF" />
+      <V Value="ngiiA" />
+      <V Value="3T0Z8" />
+      <V Value="H757d" />
+      <V Value="c3FRJ" />
+      <V Value="WyFmZ" />
+      <V Value="11mK4" />
+      <V Value="m2aUd" />
+      <V Value="UNeVB" />
+      <V Value="Jq5qV" />
+      <V Value="SLeD2" />
+      <V Value="mayPi" />
+      <V Value="oRv88" />
+      <V Value="2ggVM" />
+      <V Value="EWbU9" />
+      <V Value="EPkG0" />
+      <V Value="gtOG7" />
+      <V Value="fMZHI" />
+      <V Value="B4Bmp" />
+      <V Value="2RVM8" />
+      <V Value="dAaUH" />
+      <V Value="vkA3n" />
+      <V Value="MqhO2" />
+      <V Value="u2f0S" />
+      <V Value="f7OCB" />
+      <V Value="9Lpe6" />
+      <V Value="ntN7M" />
+      <V Value="VJuzB" />
+      <V Value="vCVTv" />
+      <V Value="KNmju" />
+      <V Value="0lVtS" />
+      <V Value="WlNI7" />
+      <V Value="ZvWw0" />
+      <V Value="TTa1W" />
+      <V Value="b7foX" />
+      <V Value="TcvGr" />
+      <V Value="mZ5j6" />
+      <V Value="1OUeq" />
+      <V Value="kvcrc" />
+      <V Value="zgYTR" />
+      <V Value="qmkDJ" />
+      <V Value="s6gLz" />
+      <V Value="uq6RL" />
+      <V Value="0qmqy" />
+      <V Value="5yvBl" />
+      <V Value="fVoCY" />
+      <V Value="m3So0" />
+      <V Value="zprPD" />
+      <V Value="vh9fw" />
+      <V Value="uoBWc" />
+      <V Value="8thUM" />
+      <V Value="srZRd" />
+      <V Value="NHTnC" />
+      <V Value="qNIQL" />
+      <V Value="AzMd2" />
+      <V Value="NpGEr" />
+      <V Value="rKHaP" />
+      <V Value="sMxS8" />
+      <V Value="7GPmp" />
+      <V Value="dELS6" />
+      <V Value="WWkAR" />
+      <V Value="9X4Sy" />
+      <V Value="2bKam" />
+      <V Value="30sNJ" />
+      <V Value="UQpHE" />
+      <V Value="tZanO" />
+      <V Value="9To7L" />
+      <V Value="KZ79F" />
+      <V Value="LHUU6" />
+      <V Value="Wvpzm" />
+      <V Value="dLy8c" />
+      <V Value="5hSwX" />
+      <V Value="awH3p" />
+      <V Value="YmCER" />
+      <V Value="Usj8y" />
+      <V Value="CwLBh" />
+      <V Value="yjb1k" />
+      <V Value="nVgVF" />
+      <V Value="d6Bbe" />
+      <V Value="PzQeX" />
+      <V Value="jjaXH" />
+      <V Value="lcp9P" />
+      <V Value="9LGEZ" />
+      <V Value="rLGJ1" />
+      <V Value="26gzn" />
+      <V Value="Nh7TY" />
+      <V Value="CVgex" />
+      <V Value="E83jz" />
+      <V Value="BfW66" />
+      <V Value="Iqw2n" />
+      <V Value="3j7dU" />
+      <V Value="c2bku" />
+      <V Value="3UMbC" />
+      <V Value="dfcGK" />
+      <V Value="iIWJq" />
+      <V Value="NaasV" />
+      <V Value="Xl5fU" />
+      <V Value="TN39L" />
+      <V Value="CWJpw" />
+      <V Value="gJvuS" />
+      <V Value="cDfh4" />
+      <V Value="lDom7" />
+      <V Value="1RiEN" />
+      <V Value="IPg6j" />
+      <V Value="FbSv7" />
+      <V Value="CyhM9" />
+      <V Value="3fgQs" />
+      <V Value="J5Nbj" />
+      <V Value="FZG2J" />
+      <V Value="kn4Re" />
+    </Day>
+    <Day Password="0Dtf" Created="2019-02-27T08:57:53.9919866+01:00" DayKey="1" Comments="" LastModified="2019-03-20T08:28:24.8310423+01:00" Date="2019-03-20T08:28:24.8305405+01:00" Punctual="37" LateComers="85" Others="0" LateComersTime="2019-03-20T09:30:00.4288935+01:00" CloseTime="2019-03-20T19:42:40.838537+01:00">
+      <V Value="5MStR" />
+      <V Value="XxBzM" />
+      <V Value="8Akj8" />
+      <V Value="pJuj8" />
+      <V Value="CTBU3" />
+      <V Value="nyPaq" />
+      <V Value="Ofi40" />
+      <V Value="GEE9u" />
+      <V Value="oHj9L" />
+      <V Value="1nVux" />
+      <V Value="V5UkS" />
+      <V Value="cAxpd" />
+      <V Value="YXb9y" />
+      <V Value="SSfis" />
+      <V Value="b4loK" />
+      <V Value="vk281" />
+      <V Value="zTVcK" />
+      <V Value="JBybO" />
+      <V Value="6GPVM" />
+      <V Value="GgaBt" />
+      <V Value="Z7m2M" />
+      <V Value="RJfPX" />
+      <V Value="s8pne" />
+      <V Value="42yof" />
+      <V Value="GU4Jl" />
+      <V Value="KfFS3" />
+      <V Value="E9qFS" />
+      <V Value="rhSGt" />
+      <V Value="zWY3W" />
+      <V Value="yRbrH" />
+      <V Value="DhlWc" />
+      <V Value="53SH2" />
+      <V Value="l4DLI" />
+      <V Value="iHZLm" />
+      <V Value="Nahuf" />
+      <V Value="kv0nn" />
+      <V Value="s3OAq" />
+      <V Value="XNKcM" />
+      <V Value="oEAE7" />
+      <V Value="vICkn" />
+      <V Value="gsF4u" />
+      <V Value="d0rqs" />
+      <V Value="A3eT9" />
+      <V Value="hf2Vl" />
+      <V Value="Kxwyx" />
+      <V Value="9PTnk" />
+      <V Value="RiF06" />
+      <V Value="0oJGD" />
+      <V Value="XWTkC" />
+      <V Value="lZh4P" />
+      <V Value="FGhzS" />
+      <V Value="jvG7l" />
+      <V Value="DW36Q" />
+      <V Value="RneN9" />
+      <V Value="tMmIE" />
+      <V Value="nTCmC" />
+      <V Value="ZiONV" />
+      <V Value="B1GXN" />
+      <V Value="5XCVz" />
+      <V Value="0SNJk" />
+      <V Value="yvKvV" />
+      <V Value="tUPkf" />
+      <V Value="FjUuB" />
+      <V Value="U7gaF" />
+      <V Value="QW7z4" />
+      <V Value="M9GIE" />
+      <V Value="K6s1E" />
+      <V Value="eOTrc" />
+      <V Value="gbVs7" />
+      <V Value="L2HJV" />
+      <V Value="smm3K" />
+      <V Value="RnKq9" />
+      <V Value="jD7WK" />
+      <V Value="9qSgX" />
+      <V Value="6eoyZ" />
+      <V Value="p0Esi" />
+      <V Value="JrwnL" />
+      <V Value="YJohn" />
+      <V Value="q3cis" />
+      <V Value="TUzXx" />
+      <V Value="VabmO" />
+      <V Value="ExnUU" />
+      <V Value="QZS8p" />
+      <V Value="rGKAl" />
+      <V Value="q1lsg" />
+      <V Value="21665" />
+      <V Value="K1guD" />
+      <V Value="jGAO7" />
+      <V Value="aWKCN" />
+      <V Value="HbUt1" />
+      <V Value="CAol7" />
+      <V Value="Tpj6M" />
+      <V Value="CrhPA" />
+      <V Value="OsXv5" />
+      <V Value="b6v3B" />
+      <V Value="JhYVP" />
+      <V Value="QWC4s" />
+      <V Value="ADunj" />
+      <V Value="uW32u" />
+      <V Value="iou2y" />
+      <V Value="P4ZoQ" />
+      <V Value="6Elan" />
+      <V Value="lGDhv" />
+      <V Value="ffcW0" />
+      <V Value="BxkBA" />
+      <V Value="42t8S" />
+      <V Value="UmWXz" />
+      <V Value="LxOem" />
+      <V Value="vSKzy" />
+      <V Value="dJM6E" />
+      <V Value="3CO2m" />
+      <V Value="RKOdL" />
+      <V Value="3Lc8I" />
+      <V Value="ykghZ" />
+      <V Value="iGxk4" />
+      <V Value="jdkCX" />
+      <V Value="kgmuO" />
+      <V Value="IOTkX" />
+      <V Value="1YlJi" />
+      <V Value="ZpCg0" />
+      <V Value="tdfWW" />
+      <V Value="nEex3" />
+      <V Value="oZB6a" />
+      <V Value="NZij0" />
+      <V Value="ZGv9Y" />
+      <V Value="9Ve1V" />
+      <V Value="tR4Ce" />
+      <V Value="70FOb" />
+      <V Value="4kWgi" />
+      <V Value="RNeiL" />
+      <V Value="07SgQ" />
+      <V Value="chVyM" />
+      <V Value="HZdS9" />
+      <V Value="NVzST" />
+      <V Value="MJK8v" />
+      <V Value="pkEQ6" />
+      <V Value="mqwfU" />
+      <V Value="myNm1" />
+      <V Value="QUH1J" />
+      <V Value="U63XL" />
+      <V Value="wOCFy" />
+      <V Value="gnJka" />
+      <V Value="rS5rZ" />
+      <V Value="RdxxN" />
+      <V Value="P7CQ2" />
+      <V Value="r2IpR" />
+      <V Value="jgh5A" />
+      <V Value="Odggo" />
+      <V Value="zfdBA" />
+      <V Value="xPPRs" />
+      <V Value="q969v" />
+      <V Value="oBmC7" />
+      <V Value="dUUIr" />
+      <V Value="Ak0gB" />
+      <V Value="nxG9O" />
+      <V Value="jT0F5" />
+      <V Value="Sdqwa" />
+      <V Value="aaY9M" />
+      <V Value="CrUZA" />
+      <V Value="UAKKz" />
+      <V Value="CPiG4" />
+      <V Value="tswkB" />
+    </Day>
+    <Day Password="Rx7F" Created="2019-03-27T08:26:38.2003343+01:00" DayKey="2" Comments="" LastModified="2019-03-27T08:27:11.0809117+01:00" Date="2019-03-27T08:27:11.0809117+01:00" Punctual="1" LateComers="121" Others="0" LateComersTime="2019-03-28T21:40:09.7470081+01:00" CloseTime="2019-03-28T21:40:11.703312+01:00">
+      <V Value="G5A8y" />
+      <V Value="MOQcK" />
+      <V Value="MO0uB" />
+      <V Value="YMCEh" />
+      <V Value="1QNuT" />
+      <V Value="i6Zn0" />
+      <V Value="zDfna" />
+      <V Value="xqw49" />
+      <V Value="qMLv0" />
+      <V Value="gpsgA" />
+      <V Value="aFjQE" />
+      <V Value="phGeF" />
+      <V Value="FocbL" />
+      <V Value="9jCJD" />
+      <V Value="hQ85q" />
+      <V Value="e4Stn" />
+      <V Value="sEtdP" />
+      <V Value="jTFZk" />
+      <V Value="FaHou" />
+      <V Value="2kjZr" />
+      <V Value="xdZST" />
+      <V Value="A7eZZ" />
+      <V Value="kFMqN" />
+      <V Value="1vzCb" />
+      <V Value="fTcYx" />
+      <V Value="78JBo" />
+      <V Value="uLs2q" />
+      <V Value="FeQ9F" />
+      <V Value="cpg0z" />
+      <V Value="0DQRs" />
+      <V Value="6kXyB" />
+      <V Value="T00VL" />
+      <V Value="2nSkf" />
+      <V Value="PMK07" />
+      <V Value="MVpwz" />
+      <V Value="pncYx" />
+      <V Value="thsIi" />
+      <V Value="9nuqN" />
+      <V Value="EevoC" />
+      <V Value="pNvLa" />
+      <V Value="dtQJW" />
+      <V Value="avazL" />
+      <V Value="fORXS" />
+      <V Value="KuA2V" />
+      <V Value="cSUct" />
+      <V Value="ha1k9" />
+      <V Value="SsGyJ" />
+      <V Value="0GZl7" />
+      <V Value="DCvUh" />
+      <V Value="qCNLs" />
+      <V Value="uCtpx" />
+      <V Value="BOnQp" />
+      <V Value="0uqpt" />
+      <V Value="n7TER" />
+      <V Value="3LPuH" />
+      <V Value="PXzv2" />
+      <V Value="UDfrF" />
+      <V Value="GzR08" />
+      <V Value="bS9w6" />
+      <V Value="JM5bu" />
+      <V Value="jj8uo" />
+      <V Value="YnyYY" />
+      <V Value="dPsNK" />
+      <V Value="nFyZc" />
+      <V Value="ogS5q" />
+      <V Value="bCSox" />
+      <V Value="3RO1J" />
+      <V Value="l4k3g" />
+      <V Value="T0sSU" />
+      <V Value="CalcJ" />
+      <V Value="4NWy5" />
+      <V Value="3H33D" />
+      <V Value="MK9aU" />
+      <V Value="C0r4Y" />
+      <V Value="iUvt9" />
+      <V Value="nn0ae" />
+      <V Value="1QqUt" />
+      <V Value="gvPvG" />
+      <V Value="U1hqJ" />
+      <V Value="8rIxI" />
+      <V Value="Bih3a" />
+      <V Value="ZSdoI" />
+      <V Value="FGSPB" />
+      <V Value="wUfgo" />
+      <V Value="Gavn4" />
+      <V Value="hn4Z1" />
+      <V Value="wV2IS" />
+      <V Value="IimuJ" />
+      <V Value="EIbd0" />
+      <V Value="DZHeM" />
+      <V Value="eCb91" />
+      <V Value="antzs" />
+      <V Value="mN3nL" />
+      <V Value="jE9wt" />
+      <V Value="EhkNa" />
+      <V Value="yzInr" />
+      <V Value="8VPCM" />
+      <V Value="kutGs" />
+      <V Value="Von1X" />
+      <V Value="qEnHG" />
+      <V Value="yPKk8" />
+      <V Value="xREZ3" />
+      <V Value="aU67k" />
+      <V Value="GxrQb" />
+      <V Value="pKt4O" />
+      <V Value="Ptjpj" />
+      <V Value="jC0Ws" />
+      <V Value="iBf3P" />
+      <V Value="JgKDH" />
+      <V Value="0igHG" />
+      <V Value="tNMgR" />
+      <V Value="eWGMj" />
+      <V Value="3iOqJ" />
+      <V Value="NUaF1" />
+      <V Value="5In0I" />
+      <V Value="90fmO" />
+      <V Value="hDSZp" />
+      <V Value="MpK5E" />
+      <V Value="CuIKM" />
+      <V Value="aHUut" />
+      <V Value="W7QFA" />
+      <V Value="aZLNH" />
+    </Day>
+  </PrevAtt>
+  <CurrAtt AkeyCount="0" />
+  <NextAtt />
+  <Batches>
+    <Year Value="2018">
+      <Batch Value="A">
+        <Stream Value="1" BatchCode="0" />
+      </Batch>
+      <Batch Value="B">
+        <Stream Value="1" BatchCode="1" />
+        <Stream Value="2" BatchCode="2" />
+      </Batch>
+      <Batch Value="C">
+        <Stream Value="1" BatchCode="3" />
+        <Stream Value="2" BatchCode="4" />
+      </Batch>
+    </Year>
+  </Batches>
+</EAttendance>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EAttendance NameCount="0" DayCount="0" BatchCount="0" CDSName="EDU-ICT">
+  <Members />
+  <PrevAtt />
+  <CurrAtt AkeyCount="0" />
+  <NextAtt />
+  <Batches />
+</EAttendance>

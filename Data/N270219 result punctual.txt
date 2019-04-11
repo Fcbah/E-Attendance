@@ -1,0 +1,42 @@
+******************************************************************************
+Attendance record for 20/03/2019
+
+
+S/N;Name;EK Number;Verification Code;Time Of Arrival;Punctuality Status
+1;Ajimo Opeyemi;EK/18B/0185;8Akj8;08:32;Punctual
+2;Akinleye Hephzibah;EK/18B/0406;5MStR;08:30;Punctual
+3;Awolo Ayomide;EK/18B/0633;oHj9L;08:35;Punctual
+4;Folorunso Samuel;EK/18B/0071;cAxpd;08:38;Punctual
+5;Abu Theophilus;EK/18C/0045;V5UkS;08:37;Punctual
+6;Olayinka Mohammed;EK/18B/0040;GgaBt;09:06;Punctual
+7;Adewoyin Adebanke;EK/18C/2209;KfFS3;09:16;Punctual
+8;Omude Paul;EK/18C/0551;42yof;09:15;Punctual
+9;Ujara Oghenerukevwe;EK/18C/0773;zTVcK;08:51;Punctual
+10;Igweonyia Obumneme;EK/18C/0497;E9qFS;09:17;Punctual
+11;Asamu Segun;EK/18C/1308;vk281;08:49;Punctual
+12;Oyemade Seyi;EK/18B/0606;Nahuf;09:28;Punctual
+13;Obenoh Samuel;EK/18B/2172;l4DLI;09:25;Punctual
+14;Efekodo Dorcas;EK/18C/0041;GU4Jl;09:15;Punctual
+15;Aande Joseph;EK/18C/0265;SSfis;08:42;Punctual
+16;Daramola Gift;EK/18B/2544;b4loK;08:47;Punctual
+17;Akinwande Daniel;EK/18C/0568;Ofi40;08:35;Punctual
+18;Obi Erim;EK/18B/0421;iHZLm;09:25;Punctual
+19;Ajazeo Paul;EK/18C/2959;rhSGt;09:17;Punctual
+20;Ayeni Esther;EK/18C/0135;DhlWc;09:19;Punctual
+21;Oluwadamilare Rasidat;EK/18C/0012;yRbrH;09:19;Punctual
+22;OnwuKanke Blessing;EK/18B/2056;53SH2;09:21;Punctual
+23;Olaiya Friday;EK/18C/0280;XxBzM;08:31;Punctual
+24;Ogufowora Iyanuoluwa;EK/18C/1586;GEE9u;08:35;Punctual
+25;Adamu Nasiru;EK/18B/2070;kv0nn;09:28;Punctual
+26;Sunday Mary;EK/18C/0299;YXb9y;08:39;Punctual
+27;Owolabi Folake;EK/18C/1819;Z7m2M;09:06;Punctual
+28;Olaniyan Omolara;EK/18C/3552;pJuj8;08:33;Punctual
+29;Akintan Muyiwa;EK/18C/0245;s3OAq;09:29;Punctual
+30;Evinagwu Emeka;EK/18C/2997;zWY3W;09:18;Punctual
+31;Olaniwun Zainab;EK/18B/2357;s8pne;09:14;Punctual
+32;Abolarinwa Elizabeth;EK/18C/2396;CTBU3;08:33;Punctual
+33;Omojagbolo Fagbade;EK/18C/1499;JBybO;08:57;Punctual
+34;Idowu Comfort;EK/18C/3371;nyPaq;08:34;Punctual
+35;Ayeni Timi;EK/18C/3734;1nVux;08:36;Punctual
+36;Adeyanju Funmilayo;EK/18C/0048;RJfPX;09:08;Punctual
+37;Amuzu Benjamin;EK/18C/3502;6GPVM;08:58;Punctual

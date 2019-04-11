@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EAttendance NameCount="0" DayCount="1" BatchCount="1" CDSName="EDU-ICT">
+  <Members />
+  <PrevAtt />
+  <CurrAtt AkeyCount="1">
+    <Day Password="ZFHk" Created="2019-03-27T06:18:18.0894675+01:00" DayKey="0" Comments="" LastModified="2019-03-27T06:18:48.0699616+01:00" Date="2019-03-27T06:18:48.0699616+01:00" Punctual="1" LateComers="0" Others="0">
+      <V Value="c52Rx" />
+      <V Value="TfVtz" />
+      <V Value="aIMvm" />
+      <V Value="Dmu7a" />
+      <V Value="uOWdU" />
+      <V Value="nATAM" />
+      <V Value="t26g6" />
+      <V Value="p5FbT" />
+      <V Value="fZTZR" />
+      <V Value="hgeH6" />
+      <V Value="le7gp" />
+      <V Value="DZOwA" />
+      <V Value="ICKW6" />
+      <V Value="XBgow" />
+      <V Value="7WJeu" />
+      <V Value="LvwCn" />
+      <V Value="7WC4a" />
+      <V Value="EuPqs" />
+      <V Value="GhJRA" />
+      <V Value="TEwSt" />
+      <V Value="VzpKy" />
+      <V Value="FLTlU" />
+      <V Value="IcB82" />
+      <V Value="mzGwr" />
+      <V Value="cmpvg" />
+      <V Value="PCrTR" />
+      <V Value="6yUII" />
+      <V Value="7gr5L" />
+      <V Value="tRdMa" />
+      <V Value="dVAOO" />
+    </Day>
+    <Attendance NameKey="-1" Akey="0" Verification="c52Rx" Time="2019-03-27T06:20:28.3615195+01:00" Content="" Status="Punctual">
+      <Value BatchCode="0" StateCode="406" />
+    </Attendance>
+  </CurrAtt>
+  <NextAtt />
+  <Batches>
+    <Year Value="2018">
+      <Batch Value="B">
+        <Stream Value="1" BatchCode="0" />
+      </Batch>
+    </Year>
+  </Batches>
+</EAttendance>
